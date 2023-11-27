@@ -1,6 +1,6 @@
 ---
 layout: post
-title: New Release: Again ft. Something Spicy
+title: New Release "Again" ft. Something Spicy
 cover-img: /assets/img/Again.png
 thumbnail-img: /assets/img/Again.png
 share-img: /assets/img/Again.jpg
