@@ -21,7 +21,7 @@ author: Dose Amigos
 
 navbar-links:
   EPK: "https://drive.google.com/file/d/1g9w3WHnii1neUpILkre06mnh4SSPlUff/view?usp=drive_link"
-  Contact: "contact"
+  # Contact: "contact"
   # Resources:
   #   - Beautiful Jekyll: "https://beautifuljekyll.com"
   #   - Learn markdown: "https://www.markdowntutorial.com/"
@@ -63,7 +63,8 @@ social-network-links:
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
-  spotify: Dose Amigos
+  spotify: 13dDvY32eRG5i4Ntfgfzrw?si=L8QRIQfiSZGNMaapY9ucgg
+  soundcloud: doseamigos
 #  telephone: +14159998888
 #  steam: deanat78
 #  twitch: yourname
@@ -95,6 +96,7 @@ share-links-active:
   vk: false
   instagram: true
   email: true
+  soundcloud: true
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
