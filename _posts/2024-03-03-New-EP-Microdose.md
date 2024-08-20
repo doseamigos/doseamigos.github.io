@@ -8,4 +8,4 @@ tags: [music]
 social-share: false
 ---
 
-We are back with another EP release titled "Microdose". This 3 track EP explores the genres of house, tech house, and breaks with our signature sound.
+We are back with another EP release titled "Microdose". This 3 track EP explores the genres of house, tech house, and breaks with our signature sound. [Get it here](https://doseamigosmusic.bandcamp.com/album/microdose)
